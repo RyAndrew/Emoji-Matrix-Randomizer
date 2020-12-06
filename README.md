@@ -1,5 +1,9 @@
 # Emoji-Matrix-Randomizer
-matrix inspired page with emojis and randomized text useful for 404 and error pages
+
+This is a vanilla javascript Matrix digital rain / green rain inspired page with emojis.
+Upon initial load the text is also emoji randomized and "decoded".
+
+Use it if you want to have the coolest 404 page on the block!
 
 See it live here: https://ryandrew.github.io/Emoji-Matrix-Randomizer/
 
